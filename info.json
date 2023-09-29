@@ -1,0 +1,11 @@
+{
+    "X-API-Key": "myKey",
+    "client_id": "myID",
+    "client_secret": "mySecret",
+    "refresh_token": "myToken",
+    "host": "myHost",
+    "user": "myUser",
+    "password": "myPassword",
+    "database": "myDatabase",
+    "redirect_url": "https://www.{myDomain}"
+}
