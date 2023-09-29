@@ -1,0 +1,6 @@
+# ignore
+*.db
+*.json
+MANZIP
+
+__pycache__/
